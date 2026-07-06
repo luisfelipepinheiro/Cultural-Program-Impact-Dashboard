@@ -174,7 +174,7 @@ Additional documentation will be added during development, including:
 
 # Project Status
 
-🚧 **Sprint 1 – Project Foundation**
+🚧 ** ✅ Phase 1 – Project Foundation(Completed)**
 
 Current progress:
 
@@ -182,14 +182,31 @@ Current progress:
 - ✅ Folder structure
 - ✅ Vision
 - ✅ Project Charter
-- 🚧 README
-- ⏳ Roadmap
-- ⏳ Business Rules
-- ⏳ Data Dictionary
-- ⏳ Dashboard Development
+- ✅ README
+- ✅ Roadmap
+- ✅ Business Rules
+- ✅ Data Dictionary
+- ✅ Dashboard Development
+
+---
+## 🚧 Phase 2 — Survey & Business Design (In Progress)
+
+Current focus:
+
+- ⏳ Microsoft Forms implementation
+- ⏳ Data collection
+- ⏳ Excel dataset preparation
 
 ---
 
+## 🔜 Next Phases
+
+- 📊 Data Modeling (Star Schema)
+- ⚙️ Power Query transformations
+- 📈 Power BI Dashboard
+- 🚀 Version 1.0 Release
+
+---
 # Future Improvements
 
 Future versions may include:
